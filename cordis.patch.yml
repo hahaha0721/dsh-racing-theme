@@ -1,0 +1,4 @@
+# dsh-racing-theme bundle patch：挂载赛车主题插件
+- insert:
+    - id: racing-theme
+      name: 'dsh-racing-theme'
