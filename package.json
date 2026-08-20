@@ -24,5 +24,6 @@
     "bundle": {
       "patch": "./cordis.patch.yml"
     }
-  }
+  },
+  "license": "CC-BY-NC-4.0"
 }
